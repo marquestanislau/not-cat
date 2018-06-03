@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "345476403432",
+    "firebase_url": "https://pennotpen-d38ee.firebaseio.com",
+    "project_id": "pennotpen-d38ee",
+    "storage_bucket": "pennotpen-d38ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345476403432:android:f9fa8a0b61fc3b7e",
+        "android_client_info": {
+          "package_name": "mz.co.nds.pennotpen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345476403432-jlc7fq8tm1dm99t5bns2t1l5pgq03o4s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "345476403432-jlc7fq8tm1dm99t5bns2t1l5pgq03o4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIANNFGHMKSRxEStii784okHaKOj5PcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
